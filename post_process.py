@@ -61,3 +61,7 @@ y_pred = model.predict_classes(x_test)
 
 acc = accuracy_score(y_pred, y_test)
 print(acc)
+
+
+
+
